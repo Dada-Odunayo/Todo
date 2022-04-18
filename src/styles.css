@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header-text {
+  font-size: 3rem;
+  color: #d8a420;
+  background-color: rgb(31, 27, 27);
+  padding: 2rem;
+}
+
+.input-text {
+  height: 2rem;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  border-color: #a316db;
+}
+
+.add-button {
+  font-size: 1.6rem;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: goldenrod;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+
+  list-style-type: none;
+  font-size: 1.4rem;
+  color: blue;
+  border-radius: 2px;
+  margin: 15px;
+  padding: 5px;
+  text-align: left;
+  background-color: rgb(223, 210, 215);
+}
+.list-items {
+  padding: 2px;
+}
